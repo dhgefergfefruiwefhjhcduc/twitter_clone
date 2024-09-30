@@ -1,0 +1,152 @@
+@media (max-width:927px) {
+    .element{
+        display: none;
+    }
+    .sidebar{
+        margin-right: 0px;
+    }
+    .post2{
+        display: none;
+    }
+    .weat{
+        display: flex;
+        margin-left: 7px;
+    }
+    .box3{
+        display: none;
+    }
+    .box1{
+        width: 10%;
+    }
+    .box2{
+        width: 100%;
+    }
+    .ios{
+        height: 50vw;
+        width:70vw;
+    }
+    .inbox1{
+        width: 100%;
+        margin-top: -2px;
+    }
+    .genius{
+        width: 70vw;
+        height:80vw ;
+    }
+    .affi{
+        height: 80vw;
+        width: 70vw;
+    }
+    .every{
+        width: 75vw;
+    }
+    }
+    @media (max-width:562px){
+        .i{
+            width: 20px;
+        }
+        .io{
+            width: 25px;
+        }
+        .weat{
+            height: 36px;
+            width: 36px;
+        }
+        .weat svg{
+            height: 25px;
+        }
+        .cont1{
+            flex-direction: column;
+        }
+    }
+@media(max-width:1525px){
+    .inbox1{
+        margin-top: -1px;
+    }
+    .aaj{
+        display: none;
+    }
+    .liv{
+        width: 22vw;
+    }
+    .Aj{
+
+       margin-top: 5px;
+       margin-bottom: 5px;
+
+    }
+    .he{
+        justify-content: center;
+    }
+    .box1{
+        overflow-y: scroll;
+    }
+}
+@media(max-width:462px){
+        .box1{
+            display: none;
+        }
+        .box2,.inbox1{
+            width: 100%;
+        }
+        .foot{
+            display:flex;}
+
+            
+        .comm{
+            margin-left: 29px;
+            margin-right: 62px;
+        }
+
+    .box2{
+        border: none;
+    }
+    .las{
+        margin-bottom: 50px;
+    }
+
+     
+}
+@media(max-height:640px){
+    .da{
+        overflow-y: scroll;
+        scrollbar-width:none;}
+    }
+@media(max-width:1130px){
+    .sub{
+        height: 11rem;
+    }
+}
+@media(min-width:1536px){
+    .inbox1{
+        width: 39vw;}
+       
+    }
+
+.under{
+    text-decoration: underline;
+    text-decoration-color: rgb(29,154,240);
+    text-decoration-thickness:4px ;
+    text-underline-offset:18px ;
+
+}
+.disable{
+    opacity: 0.5;
+    cursor:auto;
+}
+.unable{
+    display:none
+}
+.able{
+    display: flex;
+}
+.hide{
+    scrollbar-width: none;
+}
+.ver{
+    border-left: 2px solid #2c2b2b;
+    height: 32px;
+}
+.fi{
+    fill: rgb(29,154,240);
+}
